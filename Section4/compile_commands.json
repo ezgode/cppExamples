@@ -1,0 +1,29 @@
+[{
+  "file": "/Users/ezequiel/cpp/Section4/CompilerWarnings/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/CompilerWarnings",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/CompilerWarnings/main.cpp -o /Users/ezequiel/cpp/Section4/CompilerWarnings/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -pedantic-errors  -g  -O0  -pedantic  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/ezequiel/cpp/Section4/CompilerErrors/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/CompilerErrors",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/CompilerErrors/main.cpp -o /Users/ezequiel/cpp/Section4/CompilerErrors/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/ezequiel/cpp/Section4/LinkerError/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/LinkerError",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/LinkerError/main.cpp -o /Users/ezequiel/cpp/Section4/LinkerError/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/ezequiel/cpp/Section4/FirstProgram/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/FirstProgram",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/FirstProgram/main.cpp -o /Users/ezequiel/cpp/Section4/FirstProgram/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/ezequiel/cpp/Section4/Project2/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/Project2",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/Project2/main.cpp -o /Users/ezequiel/cpp/Section4/Project2/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/ezequiel/cpp/Section4/ChallengeSolution/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/ChallengeSolution",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/ChallengeSolution/main.cpp -o /Users/ezequiel/cpp/Section4/ChallengeSolution/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/ezequiel/cpp/Section4/Project1/main.cpp",
+  "directory": "/Users/ezequiel/cpp/Section4/Project1",
+  "command": "clang  -c /Users/ezequiel/cpp/Section4/Project1/main.cpp -o /Users/ezequiel/cpp/Section4/Project1/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]

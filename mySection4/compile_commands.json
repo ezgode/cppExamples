@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/ezequiel/cpp/mySection4/FirstProgram/main.cpp",
+  "directory": "/Users/ezequiel/cpp/mySection4/FirstProgram",
+  "command": "clang  -c /Users/ezequiel/cpp/mySection4/FirstProgram/main.cpp -o /Users/ezequiel/cpp/mySection4/FirstProgram/main.cpp.o  -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
